@@ -8,9 +8,9 @@ Assume the keyword for the program
 ### Step 2: 
 Assign the value of first variable
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Assume the value of second variable 
 ### Step 4: 
-Assume the value of second variable
+ubstitute the values in the distance formula ![formula](./formula.JPG)
 ### Step 5: 
 Print the distance d
 ```
