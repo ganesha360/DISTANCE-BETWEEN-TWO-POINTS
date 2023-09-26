@@ -17,7 +17,7 @@ Print the distance d
 ### PROGRAM:
   #Program to find the distance between two points.
 #Developed by: GANESH R
-#RegisterNumber:22009090
+#RegisterNumber:212222240029
 import math
 l1 = [4,2]
 l2 = [10,6]
@@ -26,7 +26,7 @@ print("{:.2f}".format(diistance))
 ```
 
 ### OUTPUT:
-![output](./Distance%20between%20two%20points.jpeg)
+![output](./pe3.png)
 
 ### RESULT:
 Thus the Distance between two points are successfully excuted
